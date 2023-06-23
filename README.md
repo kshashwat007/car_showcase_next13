@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This is inspired from the Car Showcase from "JavaScript Mastery" YT Channel's video.
+
+API: https://rapidapi.com/apininjas/api/cars-by-api-ninjas
+
 ## Getting Started
 
 First, run the development server:
